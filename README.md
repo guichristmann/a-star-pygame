@@ -6,3 +6,5 @@ To run:
     python a-star.py <square-map-size> <percentage-of-obstacles (0~1)>
 
 Doxygen generated docs can be accessed at index.html.
+
+TODO: Add a cool GIF here showing the program running.
