@@ -1,0 +1,21 @@
+/*! \mainpage A* Search
+ *
+ * \section Description
+ * This is an implementation of the A* search algorithm for finding the optimal
+ * path in a given set of states according to a cost function plus an heuristic
+ * approach. Implemented in a step-by-step approach to make it easier to understand
+ * and show how the algorithm works.
+ *
+ * \section Dependencies
+ * Python 2.7+
+
+ * PyGame
+ 
+ * Numpy
+
+ * \section How-to-use
+ * From the terminal:
+
+ * "python a-star.py <square-size> <obstacles-percentage>" Where square-size is an integer and obstacles-percentage is a number between 0 and 1.
+
+ */
