@@ -9,4 +9,7 @@ To run:
 
 Doxygen generated docs can be accessed at index.html.
 
-TODO: Add a cool GIF here showing the program running.
+You can click around the map, and change the start and goal positions.
+
+![Small map](small.gif)
+![Big map](big.gif)
